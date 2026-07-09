@@ -1,0 +1,6 @@
+{
+    "name": "CA Tools",
+    "author": "Chulan Adasuriya",
+    "description": "CA Tools — unified BIM/MEP productivity suite. Grid dimensioning, family tools, parallel/stacked MEP runs, precise MEP bending (CoolOffset), bulk PDF/DWG export, Navisworks clash navigation, and developer info — all in one tab.",
+    "version": "1.0.0"
+}
