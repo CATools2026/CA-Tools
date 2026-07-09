@@ -1,9 +1,0 @@
-title:
-  en_us: "Bulk\nExp"
-author: Chulan
-tooltip: >
-  All-in-one bulk export. Pick sheets or views, create/load/delete Revit
-  sheet sets, build a custom filename from sheet and project parameters,
-  export the list to CSV, choose PDF and/or DWG with print options, and
-  export everything to a folder in one go.
-highlight: new
