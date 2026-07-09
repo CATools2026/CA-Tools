@@ -1,0 +1,7 @@
+title: "Parallel/Stack Pipes"
+tooltip: >
+  Create parallel or vertically stacked copies of a selected pipe run
+  (straight segments and bends). Choose the layout (Parallel side-by-side or
+  Stack up/down), how many, the spacing mode, and per-run size and service.
+  Works with a single element or several pre-selected pieces.
+author: Chulan Adasuriya
